@@ -1,0 +1,23 @@
+html{
+    height: 100%;
+}
+body{
+    /* background-image: linear-gradient(180deg,#4776E6,#8E54E9); */
+    background-image: linear-gradient(200deg,#5c31ac, #2a0845);
+    font-family: 'Nunito', sans-serif;
+}
+header{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+}
+header h3{
+    font-size: 40px;
+    font-weight: 600;
+}
+form{
+    color: white;
+    margin: 0 auto;
+    width: 50%
+}
